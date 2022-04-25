@@ -1,1 +1,2 @@
 this file will be modified by user 2
+new line from user 2
